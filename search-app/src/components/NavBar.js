@@ -7,7 +7,7 @@ const NavBar = () => {
   const navLinks = [
     { label: "SEARCH", href: "/" },
     { label: "WEBSITE", href: "https://girmantech.com" },
-    { label: "LINKEDIN", href: "https://www.linkedin.com/company/girman-technologies" },
+    { label: "LINKEDIN", href: "https://www.linkedin.com/company/girmantech/" },
     { label: "CONTACT", href: "mailto:contact@girmantech.com" },
   ];
 
